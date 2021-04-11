@@ -32,10 +32,6 @@ img {
   overflow: hidden;
 }
 
-.slider__container {
-  height: 350px;
-}
-
 .slider {
   display: flex;
   width: 400%;
